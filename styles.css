@@ -1,0 +1,52 @@
+
+    .h1div {
+        color: whitesmoke;
+        text-align: center;
+        /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+        font-family: "Microsoft YaHei", "Lantinghei SC", "STHeitiSC-Light", "PingFang SC", "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", "Simsun", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 400%;
+    }
+    .h2div {
+        color: rgb(206, 204, 108);
+        text-align: center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 100%
+    }
+    ul {
+        color: red;
+        font-size: 20px;
+    }
+    body {
+        background-color: #000000;
+    }
+
+    .main {
+        color: #000000;
+        clear:both;
+    }
+    .centeredmain {
+        width: 200px;
+        position: relative;
+        left: calc(50% - 200px);
+        clear:both;
+    }
+    .centeredx {
+        width: 200px;
+        position: relative;
+        left: calc(50% - 25px);
+        clear:both;
+    }
+
+    .contact {
+        height: 2vh;
+        width: 100%;
+        background-color: #0149ab;
+        color: white;
+        margin: auto;
+        display: flex;
+    }
+
+    .notwiderthanshould {
+    width : 100%; 
+    box-sizing: border-box;
+    }
